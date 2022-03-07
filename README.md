@@ -1,4 +1,4 @@
-# DST_als: Algorithm integrated of *Dialogue State Tracking*
+# DST_als: *Dialog State Tracking* algorithm integration
 
 An indispensable component in task-oriented dialogue systems is
 the dialogue state tracker, which keeps track of users’ intentions in
@@ -34,7 +34,7 @@ where `-e` means "editable" mode so you don't have to reinstall every time you m
 
 # ⚡ Get Started
 
-## A simple example of how to use
+## A simple example
 
 ```python
 import torch
@@ -74,11 +74,11 @@ In detail, the following methods are currently implemented:
 
 | Methods             | Venue                                                        |
 | ------------------- | ------------------------------------------------------------ |
-| **STAR**            | *Ye, Fanghua, et al.* **Slot Self-Attentive Dialogue State Tracking** [📝](https://dl.acm.org/doi/abs/10.1145/3442381.3449939) Proceedings of the Web Conference 2021. 2021. |
+| **STAR**            | *Ye, Fanghua, et al.* [**Slot Self-Attentive Dialogue State Tracking** 📝](https://dl.acm.org/doi/abs/10.1145/3442381.3449939) Proceedings of the Web Conference 2021. 2021. |
 
 ## open-ontology
 
 | Methods                   | Venue                                                        |
 | ------------------------- | ------------------------------------------------------------ |
-| **SomDST**            | *Kim, Sungdong, et al.* **Efficient dialogue state tracking by selectively overwriting memory** [📝](https://arxiv.org/abs/1911.03906) arXiv preprint arXiv:1911.03906 (2019). |
+| **SomDST**            | *Kim, Sungdong, et al.* [**Efficient dialogue state tracking by selectively overwriting memory** 📝](https://arxiv.org/abs/1911.03906) arXiv preprint arXiv:1911.03906 (2019). |
 
